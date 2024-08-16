@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project <210> <Change Detection in HyperSpectral Imagery>
+# Solution to MATLAB and Simulink Challenge project 210 - Change Detection in HyperSpectral Imagery
 This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
